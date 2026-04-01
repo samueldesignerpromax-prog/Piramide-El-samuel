@@ -1,0 +1,14 @@
+[
+    {
+        "id": "owner1",
+        "name": "Admin Dono",
+        "email": "admin@edusystem.com",
+        "password": "$2a$10$N9qo8uLOickgx2ZMRZoMy.MrJqKJqKJqKJqKJqKJqKJqKJqKJqK",
+        "role": "owner",
+        "level": "master",
+        "totalSales": 1000,
+        "commission": 50000,
+        "referrals": [],
+        "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+]
