@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Tecnologia Avançada",
+        "category": "tecnologia",
+        "price": 297,
+        "commission": 30
+    },
+    {
+        "id": 2,
+        "name": "Estudos Sociais Modernos",
+        "category": "sociais",
+        "price": 197,
+        "commission": 30
+    },
+    {
+        "id": 3,
+        "name": "Culinária Profissional",
+        "category": "culinaria",
+        "price": 247,
+        "commission": 30
+    },
+    {
+        "id": 4,
+        "name": "GANHE DINHEIRO COM INTERNET",
+        "category": "especial",
+        "price": 497,
+        "commission": 40
+    }
+]
