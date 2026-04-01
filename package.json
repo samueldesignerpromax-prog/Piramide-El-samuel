@@ -1,0 +1,9 @@
+{
+    "name": "edusystem",
+    "version": "1.0.0",
+    "description": "Plataforma de cursos com sistema de afiliados",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^9.0.0"
+    }
+}
